@@ -1,2 +1,2 @@
 # Swiggy-bangalore-Restaurants
-Performed EDA analysis on the Swiggy Bangalore Restaurants  Dataset From Kaggle.
+Performed EDA analysis on the Swiggy Bangalore Restaurants  Dataset taken  From Kaggle.
